@@ -1,2 +1,5 @@
 # hello-world
-First res
+
+Hi,
+
+Name's Qasim. Here to code and stuff...
